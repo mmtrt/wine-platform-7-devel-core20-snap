@@ -1,6 +1,6 @@
 name: wine-platform-7-devel-core20
 adopt-info: wine
-summary: wine platform snap it provides devel WINE 6 for snaps
+summary: wine platform snap it provides devel WINE 7 for snaps
 description: |
  This snap creates a WINE devel 7 via content sharing to be used by other snaps that are using WINE.
 
